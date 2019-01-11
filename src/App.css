@@ -1,13 +1,13 @@
 .container{
-  display: flex;
+  /* display: flex; */
   align-items: center;
-  flex-direction: row;
+  /* flex-direction: row; */
 }
 .reviews{
   text-align: left;
   margin: 50px;
 }
 .search{
-  text-align: right;
-  margin-top: 10px;
+  text-align: left;
+  margin: 20px;
 }
